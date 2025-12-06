@@ -118,4 +118,13 @@
 - Insider threats: the abuse of authorized access to obtain data that may harm and organization. Their intentions and motivations can include: Sabotage, Corruption, Espionage, Unauthorized data access and leaks.
 - Hacktivists: threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goals, which may include: Demonstrations, Propaganda, Social change campaigns, Fame.
 - Hacker: any person who uses computers to gain access to computer systems, networks, or data. Three main categories of hackers: authorized, unauthorized and semi-authorized hackers.
+
+---
+
+# What was covered
+- Viruses
+- Malware
+- Social Engineering
+- Digital Age
+- Security Domains
  

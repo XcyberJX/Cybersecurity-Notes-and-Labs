@@ -18,9 +18,7 @@
 - **Security Governance** - Practices that help support, define, and direct security efforts of an organization.
 - **Sensitive Personally Identifiable Information (SPII)** - A specific type of PII that falls underr stricter handling guidelines.
 
----
-
-# Notes
+## Notes
 - Security frameworks provide a structure approach to implement a constant security lifecycle.
 - Your company has a guideline that requires all employees to complete a privacy training to reduce the risk of data breaches.
 - Strict access controls that define who should and should not have access to data, must be put in place to ensure confidential data remains safe.
@@ -53,25 +51,25 @@
 - Aligning security with business goals
 
 ## There are four components of frameworks
-### 1. Identifying and documenting security goals
+## 1. Identifying and documenting security goals
 - An organization may have a goal to align with the E.U. General Data Protection Regulation (GDPR).
 - May be asked to identify and document areas where an organization is out of compliance with GDPR.
 
-### 2. Setting guidelines to achieve Security Goals
+## 2. Setting guidelines to achieve Security Goals
 - Your organization may need to develope new policies for how to handle data request from individual users.
 
-### 3. Implementing strong security processes
+## 3. Implementing strong security processes
 - When a user attempts to update or delete their profile information.
 
-### 4. Monitoring and communicating results
+## 4. Monitoring and communicating results
 - You may monitor your organization's internal network and report a potential security issue affecting GDPR to your manager or regulatory compliance officer.
 - Frameworks allow analyst to work alongside other members of the security team to document, implement, and use the policies and procedures that have been created.
 
-### Ethical Principals in security
+## Ethical Principals in security
 - Confidentially
 - Privacy protection
 - Laws
 
-# What was covered
+## What was covered
 - Security frameworks and controls
 - Ethics of security

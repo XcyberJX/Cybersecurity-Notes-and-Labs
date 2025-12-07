@@ -13,9 +13,7 @@
 - **Security Information and Event Management (SIEM)** - An application that collects and analyzes log data to monitor critical activities in an organization.
 - **SQL (Structured Query Language)** - A query language used to create, interact with, and request information from a database.
 
----
-
-# Notes
+## Notes
 - Logs include records of employees signing into their computers or accessing web-based services.
 - Logs help security professionals identify vulnerabilities and potential security breaches.
 - SIEM tools collect real-time, or instant, information and allow security analysts to identify potential breaches as they happen.
@@ -46,9 +44,7 @@
 - **Secure Ciphertext** - the result of encryption.
 - **Penetration Testing** - the act of participating in a simulated attack that helps identify vulernabilities om systems, networks, websites, applications, and processes. (Also called pen-testing.)
 
----
-
-# What was covered
+## What was covered
 - SIEM Tools
 - Playbooks
 - Network protocol analyzers (packet sniffers)

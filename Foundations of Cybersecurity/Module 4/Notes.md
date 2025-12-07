@@ -38,4 +38,19 @@
 - Becoming familiar with standard tools to show employers that you have the ability to learn how to use their tools to protect the organization and the people it serves.
 
 ## More Terms
-- **Web Vulnerability** - A unique 
+- **Web Vulnerability** - A unique flaw in a web application that a threat actor could exploit by using malicious code or behavior, to allow unauthorized access, data theft, and malware deployment.
+- **Anitvirus Software** - A program used to prevent, detect, and  eliminate malware and viruses. Often called anti-malware. Can scan the memory of a device to find patterns that indicate the presence of malware.
+- **Encryption** - the process of converting data from a readable format to cryptographically encoded format.
+- **Cryptographic Encoding** - Converting plaintext into secure ciphertext.
+- **Plaintext** - unencrypted information.
+- **Secure Ciphertext** - the result of encryption.
+- **Penetration Testing** - the act of participating in a simulated attack that helps identify vulernabilities om systems, networks, websites, applications, and processes. (Also called pen-testing.)
+
+---
+
+# What was covered
+- SIEM Tools
+- Playbooks
+- Network protocol analyzers (packet sniffers)
+- Linux Operating System
+- Programming langauages (SQL and Python)

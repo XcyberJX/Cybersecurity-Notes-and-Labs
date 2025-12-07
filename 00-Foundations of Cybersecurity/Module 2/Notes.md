@@ -19,8 +19,6 @@
 - **Virus** - Refer to “computer virus”.
 - **Watering Hole Attack** - A type of attack when a threat actor compromises a website frequently visited by a specific group of users.
 
----
-
 ## Notes
 - In 1986, the Alvi brothers created the Brain virus. It was used to track illegal copies of medical software and prevent pirated licenses.
 - In 1988 Robert Morris developed a program to assess the size of the internet. 6,000 computers were affected, representing 10% of the internet at the time.
@@ -32,7 +30,6 @@
 - Physical attacks fall under the asset security domain.
 - Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
 
-
 ## Common attacks and their effectiveness:
 - **Phishing** - The use of digital communications to trick people into revealing sensitive data or deploying melicious software.
 
@@ -43,6 +40,7 @@
 - **Vishing** - The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
 - **Smishing** - The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
 - **Malware** - A software designed to harm devices or networks.
+
 ## Common malware attacks today:
 - **Viruses** - Malicious code writted to interfere with computer operations and cause damage to data and software.
 - **Worms** - Malware that can duplicate and spread itself across systems on its on. It self-replicates and spreads from an already infected computer to other devices on the same network.
@@ -116,8 +114,6 @@
 - Insider threats: the abuse of authorized access to obtain data that may harm and organization. Their intentions and motivations can include: Sabotage, Corruption, Espionage, Unauthorized data access and leaks.
 - Hacktivists: threat actors that are driven by a political agenda. They abuse digital technology to accomplish their goals, which may include: Demonstrations, Propaganda, Social change campaigns, Fame.
 - Hacker: any person who uses computers to gain access to computer systems, networks, or data. Three main categories of hackers: authorized, unauthorized and semi-authorized hackers.
-
----
 
 ## What was covered
 - Viruses

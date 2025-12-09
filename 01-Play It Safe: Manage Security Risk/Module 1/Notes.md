@@ -19,4 +19,7 @@
 - **Vulnerability** - A weakness that can be exploited by a threat.
 
 ## Notes
--
+### Explore the CISSP scurity domains Part 1
+## 1. Security and Risk Management
+- Focused on defining security goals and objectives, risk, mitigation, compliance, business continuity, and legal regulations.
+- By defining security goals and objectives, organizations can reduce risks to critical assets and data like PII, 

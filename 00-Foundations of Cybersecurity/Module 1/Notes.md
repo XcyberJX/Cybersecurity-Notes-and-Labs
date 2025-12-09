@@ -22,7 +22,6 @@
 
 ## Security analyst transferable skills
 - Communication
-- Communication
 - Problem Solving
 - Growth Mindset
 - Time Management
